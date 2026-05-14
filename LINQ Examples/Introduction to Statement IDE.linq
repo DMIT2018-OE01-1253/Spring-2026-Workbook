@@ -17,7 +17,9 @@
 </Query>
 
 int paramYear = 2000;
+
 var selectM = Albums
 				.Where(x => x.ReleaseYear == paramYear)
 				.Select(x => x); //.Dump();
+
 selectM.Dump(); //Console.WriteLine(selectM)
