@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pXGdZBtvdrIVrOAPVPRl41ilw+g5H+VB25odYwvG1qM=",
+  "Hash": "ipu3FK/55H1zOiVAtppOdTkHjrOWu6V5zAj4UOeSuF4=",
   "Source": "HogWildWeb",
   "BasePath": "_content/HogWildWeb",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "HogWildWeb\\wwwroot",
       "Source": "HogWildWeb",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\",
       "BasePath": "_content/HogWildWeb",
       "Pattern": "**"
     }
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js.gz",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
       "SourceId": "HogWildWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HogWildWeb",
       "RelativePath": "HogWildWeb#[.{fingerprint=o6a19q3rb4}]?.styles.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "svsmonk663",
       "Integrity": "uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
       "SourceId": "HogWildWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HogWildWeb",
       "RelativePath": "favicon#[.{fingerprint=2jeq8efc6q}]?.ico.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "3ren6c1acn",
       "Integrity": "b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
       "SourceId": "HogWildWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HogWildWeb",
       "RelativePath": "HogWildWeb#[.{fingerprint=o6a19q3rb4}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "svsmonk663",
       "Integrity": "uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css.gz",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
       "SourceId": "Extensions.MudBlazor.StaticInput",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Extensions.MudBlazor.StaticInput",
       "RelativePath": "NavigationObserver.js.gz",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
       "SourceId": "HogWildWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HogWildWeb",
       "RelativePath": "HogWildWeb#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -224,13 +224,13 @@
       "Integrity": "MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
       "SourceId": "HogWildWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HogWildWeb",
       "RelativePath": "HogWildWeb#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -245,13 +245,13 @@
       "Integrity": "MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
       "SourceId": "HogWildWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\",
       "BasePath": "_content/HogWildWeb",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -309,7 +309,7 @@
     },
     {
       "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -364,7 +364,7 @@
     },
     {
       "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -528,7 +528,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -583,7 +583,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -702,7 +702,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -757,7 +757,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -802,7 +802,7 @@
     },
     {
       "Route": "favicon.2jeq8efc6q.ico",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -865,7 +865,7 @@
     },
     {
       "Route": "favicon.2jeq8efc6q.ico",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -910,7 +910,7 @@
     },
     {
       "Route": "favicon.2jeq8efc6q.ico.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -963,7 +963,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1018,7 +1018,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1055,7 +1055,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1100,7 +1100,7 @@
     },
     {
       "Route": "HogWildWeb.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "HogWildWeb.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1192,7 +1192,7 @@
     },
     {
       "Route": "HogWildWeb.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "HogWildWeb.o6a19q3rb4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1300,7 +1300,7 @@
     },
     {
       "Route": "HogWildWeb.o6a19q3rb4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "HogWildWeb.o6a19q3rb4.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1398,7 +1398,7 @@
     },
     {
       "Route": "HogWildWeb.o6a19q3rb4.styles.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1461,7 +1461,7 @@
     },
     {
       "Route": "HogWildWeb.o6a19q3rb4.styles.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1506,7 +1506,7 @@
     },
     {
       "Route": "HogWildWeb.o6a19q3rb4.styles.css.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1559,7 +1559,7 @@
     },
     {
       "Route": "HogWildWeb.styles.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1614,7 +1614,7 @@
     },
     {
       "Route": "HogWildWeb.styles.css",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1651,7 +1651,7 @@
     },
     {
       "Route": "HogWildWeb.styles.css.gz",
-      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

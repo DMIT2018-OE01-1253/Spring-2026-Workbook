@@ -67,15 +67,21 @@ namespace HogWildWeb.Components.Pages.SamplePages
 				feedbackMessage = String.Empty;
 
 				// wrap the service call in a try/catch to handle unexpected exceptions
-				try
+                try
 				{
 					var result = CustomerService.GetCustomerByID(customerId);
 					if (result.IsSuccess)
 					{
 						Customer2 = result.Value;
+
+                        if (Customer2 != null)
+                        {
+							feedbackMessage = $"Search for customer {Customer2.FirstName} {Customer2.LastName} was successful";
+						}
 					}
 					else
 					{
+                        errorMessage = "Missing Information";
 						errorDetails = GetErrorMessages(result.Errors.ToList());
 					}
 				}

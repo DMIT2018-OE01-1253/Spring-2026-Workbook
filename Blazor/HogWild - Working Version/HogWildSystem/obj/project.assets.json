@@ -2776,11 +2776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildSystem\\HogWildSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildSystem.csproj",
       "projectName": "HogWildSystem",
-      "projectPath": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildSystem\\HogWildSystem.csproj",
+      "projectPath": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildSystem.csproj",
       "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ian\\Documents\\NAIT\\Test-Bank\\Presentations\\HogWild - Working Version\\HogWildSystem\\obj\\",
+      "outputPath": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
