@@ -114,11 +114,30 @@ void Main()
 	#region Add New Invoice
 	// Fail
 	// invoice cannot be null
-	codeBehind.AddEditInvoice(null);
-	codeBehind.ErrorDetails.Dump("Invoice cannot is null");
+	//codeBehind.AddEditInvoice(null);
+	//codeBehind.ErrorDetails.Dump("Invoice cannot is null");
 
-	//// setup Add Invoice
-	//InvoiceView invoiceView = new InvoiceView();
+	// setup Add Invoice
+	InvoiceView invoiceView = new InvoiceView();
+
+	//rule: Order cannot be null
+	bool verbose = true;
+	codeBehind.AddEditInvoice(null);
+	invoiceView = codeBehind.Invoice;
+	
+	//result.AddError(new Error("Missing Invoice","No invoice was supply"));
+	if (codeBehind.ErrorDetails[0] == "Missing Information: No order was supplied.")
+	{
+		Util.WithStyle("Pass - Correct Error Message returned when Invoice supplied is null", "color:green").Dump();
+		if (verbose)
+			codeBehind.ErrorDetails.Dump();
+	}
+	else
+	{
+		Util.WithStyle("Fail - No error message or incorrect error message when Invoice supplied is null", "color:red; font-weight: bold").Dump();
+		if (verbose)
+			codeBehind.ErrorDetails.Dump();
+	}
 
 	//// rule: customer id must be supply
 	//// rule: employee id must be supply    
@@ -677,9 +696,9 @@ public class Library
 		//        for valid data
 		// rule:    invoice cannot be null
 		if (invoiceView == null)
-		{
-			result.AddError(new Error("Missing Invoice",
-					"No invoice was supply"));
+		{		 
+			result.AddError(new Error("Missing Information",
+				"No order was supplied."));
 			//  need to exit because we have no invoice record
 			return result;
 		}
@@ -695,7 +714,7 @@ public class Library
 			result.AddError(new Error("Missing Information",
 					"Please provide a valid employee ID"));
 		}
-		// rule:    there must be invoice lines provided
+		// rule:    there must be at least one invoice line provided
 		if (invoiceView.InvoiceLines.Count == 0)
 		{
 			result.AddError(new Error("Missing Information",
