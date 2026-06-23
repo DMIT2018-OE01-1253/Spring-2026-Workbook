@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HogWildSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda4146ea093eba3dca4096ef4a52c514bb1e3c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+612f22493a8f9595ebb0b98df7eeb164266c04d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HogWildSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HogWildSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
