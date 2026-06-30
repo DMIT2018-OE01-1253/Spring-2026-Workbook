@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HogWildSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bc4694d02bacab35bca2dcad6b765d85cb64c3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39a043b9c8f7df0b111353807026ec991acabff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HogWildSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HogWildSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

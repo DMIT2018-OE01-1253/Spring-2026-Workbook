@@ -1936,6 +1936,20 @@
         "runtime": {
           "bin/placeholder/HogWildSystem.dll": {}
         }
+      },
+      "HogWildSystemV2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BYSResults": "1.2.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13"
+        },
+        "compile": {
+          "bin/placeholder/HogWildSystemV2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HogWildSystemV2.dll": {}
+        }
       }
     }
   },
@@ -5398,6 +5412,11 @@
       "type": "project",
       "path": "../HogWildSystem/HogWildSystem.csproj",
       "msbuildProject": "../HogWildSystem/HogWildSystem.csproj"
+    },
+    "HogWildSystemV2/1.0.0": {
+      "type": "project",
+      "path": "../HogWildSystemV2/HogWildSystemV2.csproj",
+      "msbuildProject": "../HogWildSystemV2/HogWildSystemV2.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5405,6 +5424,7 @@
       "BYSResults >= 1.2.3",
       "Extensions.MudBlazor.StaticInput >= 3.*",
       "HogWildSystem >= 1.0.0",
+      "HogWildSystemV2 >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 9.*",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.*",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.*",
@@ -5444,6 +5464,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\HogWildSystemV2.csproj": {
+              "projectPath": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\HogWildSystemV2.csproj"
+            },
             "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildSystem.csproj": {
               "projectPath": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildSystem.csproj"
             }

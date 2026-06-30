@@ -20,6 +20,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\HogWildSystemV2\HogWildSystemV2.csproj" />
     <ProjectReference Include="..\HogWildSystem\HogWildSystem.csproj" />
   </ItemGroup>
 

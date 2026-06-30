@@ -11,6 +11,7 @@
           "BYSResults": "1.2.3",
           "Extensions.MudBlazor.StaticInput": "3.2.1",
           "HogWildSystem": "1.0.0",
+          "HogWildSystemV2": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.17",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.17",
@@ -1211,6 +1212,18 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "HogWildSystemV2/1.0.0": {
+        "dependencies": {
+          "BYSResults": "1.2.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.17"
+        },
+        "runtime": {
+          "HogWildSystemV2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1914,6 +1927,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "HogWildSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HogWildSystemV2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

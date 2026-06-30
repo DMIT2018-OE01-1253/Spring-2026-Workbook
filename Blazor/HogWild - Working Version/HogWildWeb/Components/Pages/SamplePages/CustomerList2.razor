@@ -41,6 +41,26 @@
     </MudButton>
 </MudStack>
 
+<MudStack Row="true" Spacing="4" AlignItems="AlignItems.Center">
+    <MudText Typo="Typo.h5">Customer Search</MudText>
+    <MudTextField @bind-Value="lastName"
+                  Label="Last Name"
+                  Variant="Variant.Outlined" />
+    <MudTextField @bind-Value="phoneNumber"
+                  Label="Phone Number"
+                  Variant="Variant.Outlined" />
+    <MudButton Variant="Variant.Filled"
+               Color="Color.Primary"
+               OnClick="SearchByNameOrPhone">
+        Search
+    </MudButton>
+    <MudButton Variant="Variant.Filled"
+               Color="Color.Success"
+               OnClick="New">
+        New
+    </MudButton>
+</MudStack>
+
 @if(Customer2 != null)
 {
     @Customer2.FirstName

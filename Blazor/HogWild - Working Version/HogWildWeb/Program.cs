@@ -6,6 +6,7 @@ using HogWildWeb.Components;
 using HogWildWeb.Components.Account;
 using HogWildWeb.Data;
 using HogWildSystem;
+using HogWildSystemV2;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -55,6 +56,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 //  The extension method will have a paramater: options.UseSqlServer()
 builder.Services.AddBackendDependencies(options =>
     options.UseSqlServer(connectionStringHogWild));
+builder.Services.AddBackendDependenciesV2(options =>
+	options.UseSqlServer(connectionStringHogWild));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)

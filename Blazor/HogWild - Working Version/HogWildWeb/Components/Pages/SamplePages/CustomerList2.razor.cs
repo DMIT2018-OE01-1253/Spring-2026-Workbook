@@ -43,12 +43,16 @@ namespace HogWildWeb.Components.Pages.SamplePages
         [Inject]
         protected CustomerService CustomerService { get; set; } = default!;
 
-        // Injects the NavigationManager dependency.
-        [Inject]
+		[Inject]
+		protected HogWildSystemV2.BLL.CustomerService CustomerServiceV2 { get; set; } = default!;
+
+		// Injects the NavigationManager dependency.
+		[Inject]
         protected NavigationManager NavigationManager { get; set; } = default!;
 
 		// Gets or sets the customers search view.
 		protected List<CustomerSearchView> Customers { get; set; } = new();
+		protected List<HogWildSystemV2.ViewModels.CustomerView> Customers2 { get; set; } = new();
 		protected CustomerView Customer2 { get; set; } = new();
 		#endregion
 
@@ -76,13 +80,13 @@ namespace HogWildWeb.Components.Pages.SamplePages
 
                         if (Customer2 != null)
                         {
-							feedbackMessage = $"Search for customer {Customer2.FirstName} {Customer2.LastName} was successful";
-						}
-					}
+                            feedbackMessage = $"Search for customer {Customer2.FirstName} {Customer2.LastName} was successful";
+                        }
+                    }
 					else
 					{
                         errorMessage = "Missing Information";
-						errorDetails = GetErrorMessages(result.Errors.ToList());
+                        errorDetails = GetErrorMessages(result.Errors.ToList());
 					}
 				}
 				catch (Exception ex)
@@ -125,8 +129,79 @@ namespace HogWildWeb.Components.Pages.SamplePages
             }
         }
 
-        //  new customer
-        private void New()
+		private void SearchByNameOrPhone()
+		{
+			try
+			{
+				// reset the no records flag
+				noRecords = false;
+
+				// clear previous error details and messages
+				errorDetails.Clear();
+				errorMessage = string.Empty;
+				feedbackMessage = String.Empty;
+
+				// wrap the service call in a try/catch to handle unexpected exceptions
+				try
+				{
+					var result = CustomerServiceV2.GetCustomersByNameOrPhone(lastName, phoneNumber);
+					if (result.IsSuccess)
+					{
+						Customers2 = result.Value;
+
+						if (Customers2.Count() > 1)
+						{
+							feedbackMessage = $"Search for customers were successful";
+						}
+					}
+					else
+					{
+						errorMessage = "Missing Information";
+						errorDetails = GetErrorMessages(result.Errors.ToList());
+					}
+				}
+				catch (Exception ex)
+				{
+					// capture any exception message for display
+					errorMessage = ex.Message;
+				}
+
+				//if (Customers.Count > 0)
+				//{
+				//    feedbackMessage = "Search for customer(s) was successful";
+				//}
+				//else
+				//{
+				//    feedbackMessage = "No customers were found for your search criteria";
+				//    noRecords = true;
+				//}
+			}
+			catch (ArgumentNullException ex)
+			{
+				errorMessage = BlazorHelperClass.GetInnerException(ex).Message;
+			}
+			catch (ArgumentException ex)
+			{
+				errorMessage = BlazorHelperClass.GetInnerException(ex).Message;
+			}
+			catch (AggregateException ex)
+			{
+				//  have a collection of errors
+				//  each error should be place into a separate line
+				if (!string.IsNullOrWhiteSpace(errorMessage))
+				{
+					errorMessage = $"{errorMessage}{Environment.NewLine}";
+				}
+				errorMessage = $"{errorMessage}Unable to search for customer";
+				foreach (var error in ex.InnerExceptions)
+				{
+					errorDetails.Add(error.Message);
+				}
+			}
+		}
+
+		//  new customer
+		private void New()
         {
             NavigationManager.NavigateTo("/SamplePages/CustomerEdit/0");
         }
