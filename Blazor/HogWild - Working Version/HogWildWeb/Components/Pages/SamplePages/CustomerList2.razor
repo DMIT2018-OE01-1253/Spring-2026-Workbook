@@ -2,7 +2,7 @@
 
 <PageTitle>Customers</PageTitle>
 <MudText Typo="Typo.h3">Customers</MudText>
-
+@* Test *@
 @if (hasError)
 {
     <MudAlert Elevation="2"
@@ -68,13 +68,13 @@
     @Customer2.LastName
 }
 
-@if (Customers.Count > 0)
+@if (Customers2.Count > 0)
 {
-    <MudDataGrid Items="Customers"
+    <MudDataGrid Items="Customers2"
                  Striped="true"
                  FixedFooter="true"
                  FixedHeader="true"
-                 Height="65vh">
+                 Height="50vh">
         <Columns>
             <TemplateColumn>
                 <HeaderTemplate>
@@ -97,12 +97,9 @@
             <PropertyColumn Property="x => x.FirstName" Title="First Name" />
             <PropertyColumn Property="x => x.LastName" Title="Last Name" />
             <PropertyColumn Property="x => x.City" Title="City" />
-            <PropertyColumn Property="x => x.Phone" Title="Phone" />
+            <PropertyColumn Property="x => x.PostalCode" Title="Postal Code" />
+            <PropertyColumn Property="x => x.Phone" Title="Phone" /> 
             <PropertyColumn Property="x => x.Email" Title="Email" />
-            <PropertyColumn Property="@(x => x.TotalSales.HasValue
-                                                ? x.TotalSales.Value.ToString("C2")
-                                                : string.Empty)"
-                            Title="Total Sales" />
         </Columns>
         <NoRecordsContent>
             <MudText Typo="Typo.h6">

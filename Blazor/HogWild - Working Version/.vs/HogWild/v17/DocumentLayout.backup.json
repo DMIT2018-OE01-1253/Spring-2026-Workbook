@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customerlist2.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customerlist2.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystemv2\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|solutionrelative:hogwildsystemv2\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customeraddedit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customeraddedit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customeraddedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customeraddedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customerlist2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customerlist2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customerlist2.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customerlist2.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customeredit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customeredit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystemv2\\hogwildextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|solutionrelative:hogwildsystemv2\\hogwildextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystemv2\\dal\\oltpdmit2018context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|solutionrelative:hogwildsystemv2\\dal\\oltpdmit2018context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customeredit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customeredit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystemv2\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|solutionrelative:hogwildsystemv2\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\dal\\hogwildcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\dal\\hogwildcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystemv2\\viewmodels\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|solutionrelative:hogwildsystemv2\\viewmodels\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\pages\\samplepages\\customerlist2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\pages\\samplepages\\customerlist2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystemv2\\hogwildextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86FFFFC-9339-4B95-9BD9-ACA984799BDD}|HogWildSystemV2\\HogWildSystemV2.csproj|solutionrelative:hogwildsystemv2\\hogwildextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\hogwildextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\hogwildextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\viewmodels\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildweb\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00E8CF5A-20E1-8EFF-B34E-375491E64BA2}|HogWildWeb\\HogWildWeb.csproj|solutionrelative:hogwildweb\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\bll\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\bll\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\bll\\workingversionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\dal\\hogwildcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\dal\\hogwildcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\viewmodels\\customereditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|solutionrelative:hogwildsystem\\viewmodels\\customereditview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E7C1A8D-1B43-413E-9E95-EE296656DA46}|HogWildSystem\\HogWildSystem.csproj|c:\\users\\ian\\documents\\nait\\workbook-oe01\\spring-2026-workbook\\blazor\\hogwild - working version\\hogwildsystem\\viewmodels\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,333 +225,142 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\BLL\\CustomerService.cs",
-              "RelativeDocumentMoniker": "HogWildSystemV2\\BLL\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\BLL\\CustomerService.cs",
-              "RelativeToolTip": "HogWildSystemV2\\BLL\\CustomerService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:15:34.892Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CustomerList2.razor",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-19T02:05:13.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerList2.razor.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowIQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T02:36:21.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HogWildExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildExtension.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\HogWildExtension.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildExtension.cs",
-              "RelativeToolTip": "HogWildSystem\\HogWildExtension.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwCMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:15:13.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerView.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\ViewModels\\CustomerView.cs",
-              "RelativeDocumentMoniker": "HogWildSystemV2\\ViewModels\\CustomerView.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\ViewModels\\CustomerView.cs",
-              "RelativeToolTip": "HogWildSystemV2\\ViewModels\\CustomerView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:26:52.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\CustomerService.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\CustomerService.cs",
-              "RelativeToolTip": "HogWildSystem\\BLL\\CustomerService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T01:27:39.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OLTPDMIT2018Context.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
-              "RelativeDocumentMoniker": "HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
-              "RelativeToolTip": "HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:16:49.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CustomerEdit.razor",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor",
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor",
               "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor",
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-22T04:06:09.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "HogWildWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\appsettings.json",
-              "RelativeToolTip": "HogWildWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-03T01:40:13.056Z",
+              "DocumentIndex": 1,
+              "Title": "CustomerAddEdit.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAzwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T02:38:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerList2.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAwNcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:56:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\BLL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "HogWildSystemV2\\BLL\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\BLL\\CustomerService.cs*",
+              "RelativeToolTip": "HogWildSystemV2\\BLL\\CustomerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T02:15:34.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerAddEdit.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T02:38:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerList2.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T02:05:13.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Program.cs",
-              "RelativeDocumentMoniker": "HogWildWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Program.cs",
-              "RelativeToolTip": "HogWildWeb\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T01:49:57.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "HogWildExtension.cs",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\HogWildExtension.cs",
               "RelativeDocumentMoniker": "HogWildSystemV2\\HogWildExtension.cs",
               "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\HogWildExtension.cs",
               "RelativeToolTip": "HogWildSystemV2\\HogWildExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T02:42:47.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Basics.razor",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
-              "ViewState": "AgIAAF0AAAAAAAAAAIBJwG4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T01:52:47.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PartService.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\PartService.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\PartService.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\PartService.cs",
-              "RelativeToolTip": "HogWildSystem\\BLL\\PartService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAASwE4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "OLTPDMIT2018Context.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
+              "RelativeDocumentMoniker": "HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
+              "RelativeToolTip": "HogWildSystemV2\\DAL\\OLTPDMIT2018Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T04:41:49.29Z",
+              "WhenOpened": "2026-06-30T02:16:49.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Routes.razor",
-              "RelativeToolTip": "HogWildWeb\\Components\\Routes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T02:45:28.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryLookupService.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\CategoryLookupService.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\CategoryLookupService.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\CategoryLookupService.cs",
-              "RelativeToolTip": "HogWildSystem\\BLL\\CategoryLookupService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CustomerEdit.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor.cs",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:34:51.924Z",
+              "WhenOpened": "2026-07-07T03:02:43.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Basics.razor.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJ0AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "HogWildSystemV2\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\Entities\\Customer.cs",
+              "RelativeToolTip": "HogWildSystemV2\\Entities\\Customer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T03:19:29.063Z",
+              "WhenOpened": "2026-07-09T02:52:47.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "HogWildWeb\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA8AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-26T05:02:29.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CustomerList.razor.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T02:17:09.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomerList.razor",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T02:16:54.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "InvoiceService.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\InvoiceService.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\InvoiceService.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\InvoiceService.cs",
-              "RelativeToolTip": "HogWildSystem\\BLL\\InvoiceService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T04:41:50.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CustomerView.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\CustomerView.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\ViewModels\\CustomerView.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\CustomerView.cs",
-              "RelativeToolTip": "HogWildSystem\\ViewModels\\CustomerView.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T02:12:51.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\Entities\\Category.cs",
-              "RelativeToolTip": "HogWildSystem\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:34:45.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "WorkingVersionsService.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\WorkingVersionsService.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\WorkingVersionsService.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\WorkingVersionsService.cs",
-              "RelativeToolTip": "HogWildSystem\\BLL\\WorkingVersionsService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:46:40.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "WorkingVersion.razor.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:52:41.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "WorkingVersion.razor",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
-              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
-              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T03:56:14.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
               "Title": "HogWildContext.cs",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\DAL\\HogWildContext.cs",
               "RelativeDocumentMoniker": "HogWildSystem\\DAL\\HogWildContext.cs",
@@ -556,20 +373,228 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CustomerEditView.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\CustomerEditView.cs",
-              "RelativeDocumentMoniker": "HogWildSystem\\ViewModels\\CustomerEditView.cs",
-              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\CustomerEditView.cs",
-              "RelativeToolTip": "HogWildSystem\\ViewModels\\CustomerEditView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CustomerView.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\ViewModels\\CustomerView.cs",
+              "RelativeDocumentMoniker": "HogWildSystemV2\\ViewModels\\CustomerView.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystemV2\\ViewModels\\CustomerView.cs",
+              "RelativeToolTip": "HogWildSystemV2\\ViewModels\\CustomerView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:28:03.24Z",
+              "WhenOpened": "2026-06-30T02:26:52.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T05:02:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Program.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Program.cs",
+              "RelativeToolTip": "HogWildWeb\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:49:57.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "HogWildWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\appsettings.json",
+              "RelativeToolTip": "HogWildWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T01:40:13.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HogWildExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildExtension.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\HogWildExtension.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\HogWildExtension.cs",
+              "RelativeToolTip": "HogWildSystem\\HogWildExtension.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:15:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Basics.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor",
+              "ViewState": "AgIAAF0AAAAAAAAAAIBJwG4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T01:52:47.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PartService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\PartService.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\PartService.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\PartService.cs",
+              "RelativeToolTip": "HogWildSystem\\BLL\\PartService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAASwE4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:41:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Routes.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T02:45:28.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryLookupService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\CategoryLookupService.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\CategoryLookupService.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\CategoryLookupService.cs",
+              "RelativeToolTip": "HogWildSystem\\BLL\\CategoryLookupService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:34:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Basics.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\Basics.razor.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJ0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:19:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerList.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:17:09.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerList.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T02:16:54.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\InvoiceService.cs",
+              "RelativeToolTip": "HogWildSystem\\BLL\\InvoiceService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:41:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerView.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\CustomerView.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\ViewModels\\CustomerView.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\CustomerView.cs",
+              "RelativeToolTip": "HogWildSystem\\ViewModels\\CustomerView.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:12:51.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\Entities\\Category.cs",
+              "RelativeToolTip": "HogWildSystem\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:34:45.128Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "WorkingVersionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\WorkingVersionsService.cs",
+              "RelativeDocumentMoniker": "HogWildSystem\\BLL\\WorkingVersionsService.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\BLL\\WorkingVersionsService.cs",
+              "RelativeToolTip": "HogWildSystem\\BLL\\WorkingVersionsService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:46:40.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkingVersion.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:52:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WorkingVersion.razor",
+              "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
+              "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
+              "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
+              "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\WorkingVersion.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T03:56:14.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "InvoiceView.cs",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildSystem\\ViewModels\\InvoiceView.cs",
               "RelativeDocumentMoniker": "HogWildSystem\\ViewModels\\InvoiceView.cs",
@@ -577,12 +602,11 @@
               "RelativeToolTip": "HogWildSystem\\ViewModels\\InvoiceView.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAewA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:29:37.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T03:29:37.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\Weather.razor",
@@ -590,12 +614,11 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T02:26:52.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T02:26:52.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\Counter.razor",
@@ -603,12 +626,11 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T02:26:48.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T02:26:48.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\Layout\\MainLayout.razor",
@@ -616,12 +638,11 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T01:41:45.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T01:41:45.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\App.razor",
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\App.razor",
@@ -629,12 +650,11 @@
               "RelativeToolTip": "HogWildWeb\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T01:48:34.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T01:48:34.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\_Imports.razor",
@@ -642,8 +662,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T02:41:36.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T02:41:36.188Z"
             }
           ]
         }
