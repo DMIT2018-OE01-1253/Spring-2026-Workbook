@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,6 +218,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -228,7 +232,7 @@
               "RelativeDocumentMoniker": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
               "ToolTip": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-OE01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T02:38:27.862Z",
               "EditorCaption": ""
@@ -243,8 +247,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerAddEdit.razor",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAHQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-09T02:38:09.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T02:38:09.835Z"
             },
             {
               "$type": "Document",
@@ -256,8 +259,7 @@
               "RelativeToolTip": "HogWildSystem\\BLL\\CategoryLookupService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:34:51.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T03:34:51.924Z"
             },
             {
               "$type": "Document",
@@ -269,8 +271,7 @@
               "RelativeToolTip": "HogWildSystem\\HogWildExtension.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T03:15:13.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T03:15:13.084Z"
             },
             {
               "$type": "Document",
@@ -282,8 +283,7 @@
               "RelativeToolTip": "HogWildWeb\\Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T01:49:57.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T01:49:57.084Z"
             },
             {
               "$type": "Document",
@@ -295,8 +295,7 @@
               "RelativeToolTip": "HogWildSystemV2\\BLL\\CustomerService.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAwwI8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:15:34.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T02:15:34.892Z"
             },
             {
               "$type": "Document",
@@ -308,8 +307,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAxwJEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T03:02:43.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T03:02:43.086Z"
             },
             {
               "$type": "Document",
@@ -321,8 +319,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\SimpleListToList.razor.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T01:35:14.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T01:35:14.866Z"
             },
             {
               "$type": "Document",
@@ -334,8 +331,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList2.razor.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAswD4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T01:56:48.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T01:56:48.922Z"
             },
             {
               "$type": "Document",
@@ -347,8 +343,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerEdit.razor",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAHoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-22T04:06:09.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T04:06:09.166Z"
             },
             {
               "$type": "Document",
@@ -504,8 +499,7 @@
               "RelativeToolTip": "HogWildWeb\\Components\\Pages\\SamplePages\\CustomerList.razor.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAQwFIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T02:17:09.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T02:17:09.78Z"
             },
             {
               "$type": "Document",

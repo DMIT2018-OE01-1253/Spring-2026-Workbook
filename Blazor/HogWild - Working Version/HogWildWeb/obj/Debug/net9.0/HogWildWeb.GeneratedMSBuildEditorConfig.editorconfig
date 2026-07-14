@@ -207,6 +207,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Ian/Documents/NAIT/Workbook-OE01/Spring-2026-Workbook/Blazor/HogWild - Working Version/HogWildWeb/Components/Pages/Purchasing/Purchasing.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQdXJjaGFzaW5nXFB1cmNoYXNpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Ian/Documents/NAIT/Workbook-OE01/Spring-2026-Workbook/Blazor/HogWild - Working Version/HogWildWeb/Components/Pages/SamplePages/CustomerAddEdit.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYW1wbGVQYWdlc1xDdXN0b21lckFkZEVkaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
