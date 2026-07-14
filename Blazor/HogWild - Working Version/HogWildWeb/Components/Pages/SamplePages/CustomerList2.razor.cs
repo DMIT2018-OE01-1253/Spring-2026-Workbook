@@ -209,7 +209,7 @@ namespace HogWildWeb.Components.Pages.SamplePages
         //  edit selected customer
         private void EditCustomer(int customerID)
         {
-            NavigationManager.NavigateTo($"/SamplePages/CustomerEdit/{customerID}");
+            NavigationManager.NavigateTo($"/SamplePages/CustomerAddEdit/{customerID}");
         }
 
         //  new invoice for selected customer
