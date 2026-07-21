@@ -1,11 +1,30 @@
 ﻿@page "/SamplePages/SimpleNonIndexList"
 
+@if (hasError)
+{
+    <MudAlert Elevation="2"
+              Severity="Severity.Error"
+              Dense="true">
+        <MudText Typo="Typo.h6">@errorMessage</MudText>
+        @foreach (var error in errorDetails)
+        {
+            <MudText Typo="Typo.body2">@error</MudText>
+        }
+    </MudAlert>
+}
+
 <MudContainer MaxWidth="MaxWidth.Small">
     <MudPaper Elevation="4" Class="pa-4">
         <h3>Customer List</h3>
 
         <!-- Input for adding a new customer -->
-        <MudTextField @bind-Value="customerName" Label="Enter Customer Name"
+        <MudTextField @bind-Value="customerFName" Label="Enter Customer First Name"
+                      Variant="Variant.Outlined" Adornment="Adornment.Start">
+            <AdornmentIcon>
+                <MudIcon Icon="@Icons.Material.Filled.PersonAdd" />
+            </AdornmentIcon>
+        </MudTextField>
+        <MudTextField @bind-Value="customerLName" Label="Enter Customer Last Name"
                       Variant="Variant.Outlined" Adornment="Adornment.Start">
             <AdornmentIcon>
                 <MudIcon Icon="@Icons.Material.Filled.PersonAdd" />
@@ -26,6 +45,7 @@
             <RowTemplate Context="item">
                 <MudTd>@item.CustomerID</MudTd>
                 <MudTd>@item.FirstName</MudTd>
+                <MudTd>@item.LastName</MudTd>
                 <MudTd>
                     <MudButton Color="Color.Error"
                                OnClick="() => RemoveCustomer(item.CustomerID)">

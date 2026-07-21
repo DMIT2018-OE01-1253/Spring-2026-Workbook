@@ -13,7 +13,9 @@ namespace HogWildWeb.Components.Pages.SamplePages
         public List<PartView> Inventory { get; set; } = new();
         public List<InvoiceLineView> ShoppingCart { get; set; } = new();
 
-        protected override async Task OnInitializedAsync()
+        bool isAddedItem;
+
+		protected override async Task OnInitializedAsync()
         {
             await base.OnInitializedAsync();
             Inventory = PartService.GetParts(22, "", new List<int>());
@@ -34,7 +36,8 @@ namespace HogWildWeb.Components.Pages.SamplePages
                     Taxable = part.Taxable
                 });
                 Inventory.Remove(part);
-                await InvokeAsync(StateHasChanged);
+                isAddedItem = true;
+				await InvokeAsync(StateHasChanged);
             }
         }
 
@@ -51,7 +54,10 @@ namespace HogWildWeb.Components.Pages.SamplePages
                 {
                     ShoppingCart.Remove(invoiceLine);
                 }
-                await InvokeAsync(StateHasChanged);
+
+                isAddedItem = ShoppingCart.Count == 0 ? false : true;
+
+				await InvokeAsync(StateHasChanged);
             }
         }
     }
